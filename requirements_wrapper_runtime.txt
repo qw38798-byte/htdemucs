@@ -1,0 +1,14 @@
+﻿torch>=2.0.1
+torchaudio
+numpy<2
+pyyaml
+omegaconf==2.2.3
+ml_collections
+librosa
+soundfile
+tqdm
+einops==0.6.1
+beartype
+demucs>=4.0.0
+openunmix
+loralib
